@@ -2,4 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/DotNetStarter/.vs
+/AspDotNet/.vs/AspDotNet/v16/Server/sqlite3
+/AspDotNet/.vs/AspDotNet/config

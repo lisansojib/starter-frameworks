@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# CA1031: Do not catch general exception types
+dotnet_diagnostic.CA1031.severity = none
+
+# CA3147: Mark Verb Handlers With Validate Antiforgery Token
+dotnet_diagnostic.CA3147.severity = none
+
+# CA1012: Abstract types should not have constructors
+dotnet_diagnostic.CA1012.severity = none
